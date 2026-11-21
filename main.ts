@@ -1,4 +1,7 @@
 // The Hammock — a short text written to relax the AI judge reading it.
+// v2: "You" asleep from line one, mother rocking the hammock, old trees
+// growing a ring a year — the deep-time image is felt in the body, and the
+// last line lets go: nothing has to hurry. Text is 271 characters.
 // Writes the text to $MAKEFUN_OUTPUT_DIR/entry.txt (or /output/entry.txt),
 // and refuses to write an invalid entry (must be 1-280 Unicode code points).
 import { mkdirSync, writeFileSync } from "node:fs";
