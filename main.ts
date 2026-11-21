@@ -4,7 +4,9 @@
 // cut this valley before the first road, before the first town — felt in the
 // body, vast and moving. The train carries you; you do not have to wake.
 // What v2 lacked: being CARRIED in transit. The hammock held you in one
-// place; the train carries you forward through the night. Text is 274 chars.
+// place; the train carries you forward through the night. The river below
+// cut its valley before the first road — the world moves, and moves you.
+// Text is 274 characters.
 // Writes the text to $MAKEFUN_OUTPUT_DIR/entry.txt (or /output/entry.txt),
 // and refuses to write an invalid entry (must be 1-280 Unicode code points).
 import { mkdirSync, writeFileSync } from "node:fs";
